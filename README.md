@@ -1,0 +1,3 @@
+Grupo 1 - Alex José Fonseca Saude, Gabriel Marochi Schmidt, Hugo Avelino de Carvalho, Nélio Ramos, Nicolle Esteves Parisi, Pedro Henrique Santos Ribeiro, Thais Nubia Turl.
+
+Nosso projeto simula o sistema de gerenciamento de uma clínica odontológica, permitindo organizar informações de pacientes, dentistas, horários de atendimento, procedimentos e consultas. A modelagem foi pensada para facilitar o controle do fluxo de atendimentos, desde o cadastro de pacientes até o registro de procedimentos realizados, garantindo maior eficiência no agendamento, acompanhamento de históricos e emissão de prescrições. Com esse sistema, a clínica consegue manter seus dados estruturados, reduzir erros manuais e oferecer um atendimento mais ágil e organizado.
